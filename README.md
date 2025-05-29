@@ -84,4 +84,8 @@ Pull requests are welcome! If you want to suggest improvements, fix bugs, or add
 
 # Author
 
-Created by Inna Konar — making language learning more musical and efficient.
+
+Created by Inna Konar,
+AI & Data Science enthusiast making language learning more musical, mobile, and meaningful.
+
+“Sometimes three lines of code can do more than three hours of lecture.”
