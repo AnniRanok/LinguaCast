@@ -1,7 +1,12 @@
 # LinguaCast: Personal Text-to-Speech Studio
 
-A simple and user-friendly desktop application for converting text to speech (MP3) using the [gTTS (Google Text-to-Speech)](https://pypi.org/project/gTTS/) library. Supports input from manual text, `.txt`, `.pdf`, and `.docx` files. Built with Python and Tkinter.
+A simple and user-friendly desktop application for converting text to speech (MP3) using the [gTTS (Google Text-to-Speech)](https://pypi.org/project/gTTS/) library. Supports input from manual text, `.txt`, `.pdf`, and `.docx` files. Built with Python and Tkinter. Perfect for language learners, presenters, and anyone who needs text read aloud.
 
+# Why I Built This
+
+As a data scientist working across projects in multiple languages, I needed a tool to turn written materials into audio — so I could listen to them during morning runs, commutes, or while waiting in line.
+
+That’s how **LinguaCast** was born: a practical solution for transforming passive time into active language practice.
 
 # Features
 
