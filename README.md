@@ -68,6 +68,9 @@ python app.py
 * Preparing for presentations
 * Text accessibility support
 
+# LinguaCast 
+
+[Read the story on Medium →](https://medium.com/@konar.inna/three-lines-of-code-that-changed-how-i-learn-languages-428b3cb45336)
 
 
 #  License
